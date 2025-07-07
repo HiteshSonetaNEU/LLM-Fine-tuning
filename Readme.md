@@ -28,8 +28,7 @@ To set up the environment and run this project, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/HiteshSonetaNEU/LLM-Fine-tuning.git
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -44,23 +43,7 @@ To set up the environment and run this project, follow these steps:
 3.  **Install dependencies:**
     The notebook uses an in-notebook `pip install` command, but for a local setup, you can generate a `requirements.txt` file from the notebook's installed packages. For convenience, here's a basic `requirements.txt` based on the notebook:
 
-    Create a file named `requirements.txt` in the root of your repository with the following content:
-    ```
-    torch
-    numpy
-    pandas
-    transformers
-    datasets
-    peft
-    evaluate
-    scikit-learn
-    matplotlib
-    seaborn
-    huggingface_hub
-    fsspec
-    accelerate
-    bitsandbytes
-    ```
+    
     Then, install them:
     ```bash
     pip install -r requirements.txt

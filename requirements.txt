@@ -1,0 +1,14 @@
+torch
+    numpy
+    pandas
+    transformers
+    datasets
+    peft
+    evaluate
+    scikit-learn
+    matplotlib
+    seaborn
+    huggingface_hub
+    fsspec
+    accelerate
+    bitsandbytes
