@@ -2,19 +2,6 @@
 
 This repository contains the code and data for a project focused on fine-tuning a Large Language Model (LLM) for sentiment analysis on the Stanford Sentiment Treebank (SST-2) dataset. The project demonstrates dataset preparation, model selection, fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) with LoRA, hyperparameter optimization, comprehensive evaluation, and error analysis.
 
-## Table of Contents
-
-1.  [Project Overview](#project-overview)
-2.  [Dataset](#dataset)
-3.  [Repository Structure](#repository-structure)
-4.  [Setup Instructions](#setup-instructions)
-5.  [How to Run the Notebook](#how-to-run-the-notebook)
-6.  [Project Approach & Implementation Highlights](#project-approach--implementation-highlights)
-7.  [Results & Performance](#results--performance)
-8.  [Error Analysis Insights](#error-analysis-insights)
-9.  [Inference Pipeline](#inference-pipeline)
-10. [Video Walkthrough](#video-walkthrough)
-11. [License](#license)
 
 ## 1. Project Overview
 
